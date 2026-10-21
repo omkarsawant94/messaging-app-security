@@ -6,6 +6,8 @@
 
 A comprehensive security framework for messaging applications covering end-to-end encryption, authentication, file & voice security, and privacy policy — validated through two hands-on labs including real Wireshark network capture and Android APK security analysis.
 
+On-job training (OJT) project at Spinnaker Analytics (Boston Institute of Analytics), completed as part of my PG Diploma (2026), adapted for GitHub.
+
 ## Key Highlights
 
 - 🔐 **Signal Protocol** — Live E2E encryption verification via Wireshark `.pcapng` traffic capture
